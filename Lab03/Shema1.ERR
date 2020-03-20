@@ -1,0 +1,66 @@
+P-CAD Net List Load Errors
+
+======================================================================
+
+Netlist filename: C:\Users\darkl\Desktop\TPKS\La1_pcad\Shema1.net
+Warning: line 40
+   * Component U5 of type DIODE loaded with a pattern mismatch between the library (DIODE) and netlist file (DIODE_CORPUS)
+Warning: line 48
+   * Component U4 of type DIODE loaded with a pattern mismatch between the library (DIODE) and netlist file (DIODE_CORPUS)
+Warning: line 64
+   * Component U3 of type DIODE loaded with a pattern mismatch between the library (DIODE) and netlist file (DIODE_CORPUS)
+SHORTED NETS:
+
+
+Net List Errors:   0
+Net List Warnings: 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------
+
+28-Feb-20  13:41                                            Page    1
+
