@@ -1,0 +1,85 @@
+PCAD Importer Log
+Project : PCAD_LAB01_02.LibPkg
+
+Section : C:\Users\darkl\Desktop\TPKS - Copy\PCAD_LAB01_02.LIA
+    Section : PCB Library - PCAD_LAB01_02.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token defaultPinDes On Line 139
+            Warning - 1 : Skipping Token defaultPinDes On Line 140
+            Warning - 1 : Skipping Token defaultPinDes On Line 161
+            Warning - 1 : Skipping Token defaultPinDes On Line 162
+            Warning - 1 : Skipping Token defaultPinDes On Line 185
+            Warning - 1 : Skipping Token defaultPinDes On Line 186
+            Warning - 1 : Skipping Token defaultPinDes On Line 187
+            Warning - 1 : Skipping Token defaultPinDes On Line 188
+            Warning - 1 : Skipping Token defaultPinDes On Line 189
+            Warning - 1 : Skipping Token defaultPinDes On Line 190
+            Warning - 1 : Skipping Token defaultPinDes On Line 191
+            Warning - 1 : Skipping Token defaultPinDes On Line 192
+            Warning - 1 : Skipping Token defaultPinDes On Line 193
+            Warning - 1 : Skipping Token defaultPinDes On Line 194
+            Warning - 1 : Skipping Token defaultPinDes On Line 195
+            Warning - 1 : Skipping Token defaultPinDes On Line 196
+            Warning - 1 : Skipping Token defaultPinDes On Line 197
+            Warning - 1 : Skipping Token defaultPinDes On Line 198
+            Warning - 1 : Skipping Token defaultPinDes On Line 219
+            Warning - 1 : Skipping Token defaultPinDes On Line 220
+            Warning - 1 : Skipping Token defaultPinDes On Line 221
+            Warning - 1 : Skipping Token CAPACITOR On Line 235
+            Warning - 1 : Skipping Token DIODE On Line 258
+            Warning - 1 : Skipping Token MICROCHIPS On Line 286
+            Warning - 1 : Skipping Token TRANSISTOR On Line 318
+            Warning - 1 : Skipping Token attachedSymbol On Line 364
+            Warning - 1 : Skipping Token attachedSymbol On Line 384
+            Warning - 1 : Skipping Token attachedSymbol On Line 404
+            Warning - 1 : Skipping Token attachedSymbol On Line 437
+            Warning - 1 : Skipping Token attachedSymbol On Line 438
+            Warning - 1 : Skipping Token attachedSymbol On Line 439
+            Warning - 1 : Skipping Token attachedSymbol On Line 440
+            Warning - 1 : Skipping Token attachedSymbol On Line 474
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [CAPACITOR][Primary] associated with PCAD Component [CAPACITOR] has been renamed to PCB FootPrint [CAPACITOR_CAPACITOR(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [CAPACITOR][Primary] associated with PCAD Component [CAPACITOR CORPUS] has been renamed to PCB FootPrint [CAPACITOR_CAPACITOR CORPUS(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [TRANSISTOR CORPUS][Primary] associated with PCAD Component [TRANSISTOR] has been renamed to PCB FootPrint [TRANSISTOR CORPUS_TRANSISTOR(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - PCAD_LAB01_02.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token padStyleDef On Line 23
+            Warning - 1 : Skipping Token padStyleDef On Line 34
+            Warning - 1 : Skipping Token padStyleDef On Line 44
+            Warning - 1 : Skipping Token viaStyleDef On Line 54
+            Warning - 1 : Skipping Token multiLayer On Line 138
+            Warning - 1 : Skipping Token layerContents On Line 142
+            Warning - 1 : Skipping Token layerContents On Line 146
+            Warning - 1 : Skipping Token multiLayer On Line 160
+            Warning - 1 : Skipping Token layerContents On Line 164
+            Warning - 1 : Skipping Token layerContents On Line 168
+            Warning - 1 : Skipping Token multiLayer On Line 184
+            Warning - 1 : Skipping Token layerContents On Line 200
+            Warning - 1 : Skipping Token multiLayer On Line 218
+            Warning - 1 : Skipping Token layerContents On Line 223
+            Warning - 1 : Skipping Token layerContents On Line 227
+            Warning - 1 : Skipping Token defaultPinDes On Line 243
+            Warning - 1 : Skipping Token defaultPinDes On Line 251
+            Warning - 1 : Skipping Token defaultPinDes On Line 266
+            Warning - 1 : Skipping Token defaultPinDes On Line 274
+            Warning - 1 : Skipping Token defaultPinDes On Line 294
+            Warning - 1 : Skipping Token defaultPinDes On Line 302
+            Warning - 1 : Skipping Token defaultPinDes On Line 309
+            Warning - 1 : Skipping Token defaultPinDes On Line 326
+            Warning - 1 : Skipping Token defaultPinDes On Line 334
+            Warning - 1 : Skipping Token defaultPinDes On Line 342
+        EndSection
+
+        Section : Generating SCH Library - PCAD_LAB01_02.SchLib
+            Warning - 0 : PCAD Pattern Graphics [CAPACITOR][Primary] associated with PCAD Component [CAPACITOR] has been renamed to PCB FootPrint [CAPACITOR_CAPACITOR(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [CAPACITOR][Primary] associated with PCAD Component [CAPACITOR CORPUS] has been renamed to PCB FootPrint [CAPACITOR_CAPACITOR CORPUS(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [TRANSISTOR CORPUS][Primary] associated with PCAD Component [TRANSISTOR] has been renamed to PCB FootPrint [TRANSISTOR CORPUS_TRANSISTOR(Primary)].
+        EndSection
+    EndSection
+EndSection
