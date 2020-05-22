@@ -36,3 +36,11 @@
   <li>*.FCStd - розширення файлу 3D моделей FreeCAD</li>
   <li>*.step - розширення файлу 3D моделі</li>
 </ul>
+<h2>Фото компонентів </h2>
+ <b> Рисунок 1 - Diode </b>
+ 
+ <img src="/Inventor_Lab12/diode.jpg">
+ 
+  <b> Рисунок 2 - Capacitor </b>
+  
+ <img src="/Inventor_Lab12/capacitor.jpg">
