@@ -37,9 +37,10 @@
   <li>*.step - розширення файлу 3D моделі</li>
 </ul>
 <h2>Фото компонентів </h2>
- <img src="/Inventor_Lab13/dip7.jpg"
- 
  <b> Рисунок 1 - Dip7 </b>
- <img src="/Inventor_Lab13/transistor.jpg"
  
- <b> Рисунок 1 - Transistor </b>
+ <img src="/Inventor_Lab13/dip7.jpg">
+ 
+  <b> Рисунок 1 - Transistor </b>
+  
+ <img src="/Inventor_Lab13/transistor.jpg">
