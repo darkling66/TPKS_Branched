@@ -36,3 +36,8 @@
   <li>*.FCStd - розширення файлу 3D моделей FreeCAD</li>
   <li>*.step - розширення файлу 3D моделі</li>
 </ul>
+# Фото компонентів
+ ![dip7](/Inventor_Lab13/dip7.jpg)
+ **Рисунок 1** - Dip7
+ ![МЛТ-1](/Inventor_Lab13/transistor.jpg)
+ **Рисунок 2** - Transistor
